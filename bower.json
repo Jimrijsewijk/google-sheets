@@ -1,0 +1,7 @@
+{
+  "name": "google-sheets#gh-pages",
+  "private": true,
+  "dependencies": {
+    "google-sheets": "GoogleWebComponents/google-sheets#master"
+  }
+}
